@@ -1,0 +1,16 @@
+{
+  "passengerInfo": {
+    "name": "mai",
+    "email": "mai@gmail.com",
+    "source": "Bangkok",
+    "destination": "Korat",
+    "travelDate": "24-8-2021",
+    "pickupTime": "4.0 PM",
+    "arrivalTime": "6.0 PM",
+    "fare": 20000.0
+  },
+  "paymentInfo": {
+    "accountNo": "acc1",
+    "cardType": "DEBIT"
+  }
+}
